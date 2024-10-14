@@ -1,0 +1,7 @@
+In the training phase, I ran the model with 30 episodes and 90 steps in each episode.
+
+I build the neural network with two hidden layers and used linear as activation function for output layer and relu for hidden layers.
+
+In testing phase, out of 100 trails it mixed successfully 71 times.
+
+It took 37 sec to mix successfully and to run for 100 episodes it took total of 470 sec to run for 100 trails.
